@@ -1,0 +1,1 @@
+export const __rspack_esm_id=584602;export const __rspack_esm_ids=[584602];export const __webpack_modules__={gPi(e,r,_){var t=_("NHP"),a=_("RXk"),o=_("hCY");let p=`https://cdn.platform.openai.com/deployments/dil/v${t.a}/runner.html`;_.d(r,{a:()=>o.b,b:()=>a.a,c:()=>o.c,d:()=>o.e,e:()=>o.g,f:()=>o.h,prewarmDilFrame:()=>o.l},{runnerUrl:p})}};
